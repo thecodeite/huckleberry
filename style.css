@@ -7,7 +7,6 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-size: 16px;
 }
 
 /* Add styles here! */
@@ -15,7 +14,7 @@ body {
 /* common styles */
 .max-width-wrapper {
   max-width: 800px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 p {
@@ -72,6 +71,6 @@ main {
   border-bottom: 8px solid hsl(45deg, 100%, 40%);
   width: fit-content;
   margin: 0;
-  padding: 16px 32px 16px 40px;
-  margin-left: -36px;
+  padding: 16px 32px;
+  margin-left: -32px;
 }
